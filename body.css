@@ -1,20 +1,20 @@
 body.Home_Fernando{
-    background-image: url(image/shark.jpg);
+    background-image: url('image/shark.jpg');
     background-size: cover;
     font-size: 30px;
 }
 body.Product_Fernando{
-    background-image: url(image/sark.jpg);
+    background-image: url('image/sark.jpg');
     background-size: cover;
     font-size: 30px;
 }
 body.About_Fernando{
-    background-image: url(image/backgroud.jpg);
+    background-image: url('image/backgroud.jpg');
     background-size: cover; 
     font-size: 30px;
 }
 body.Contact_Fernando{
-    background-image: url(image/shark.jpg);
+    background-image: url('image/shark.jpg');
     background-size: cover;
     font-size: 30px;
 }
